@@ -1,7 +1,7 @@
 arch: 
-      - amd64
+#      - amd64
       - ppc64le
-dist: xenial 
+dist: focal 
 addons:
   apt:
     sources:
